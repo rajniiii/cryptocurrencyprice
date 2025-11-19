@@ -1,0 +1,6 @@
+coin,signal_name,signal_value,signal_type
+bitcoin,momentum,-1,Bearish
+bitcoin,trend,-1,Bearish
+bitcoin,rsi,0,Neutral
+bitcoin,macd,-1,Bearish
+bitcoin,bollinger,1,Bullish

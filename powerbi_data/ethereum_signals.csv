@@ -1,0 +1,6 @@
+coin,signal_name,signal_value,signal_type
+ethereum,momentum,-1,Bearish
+ethereum,trend,-1,Bearish
+ethereum,rsi,0,Neutral
+ethereum,macd,-1,Bearish
+ethereum,bollinger,1,Bullish
